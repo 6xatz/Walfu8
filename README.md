@@ -1,6 +1,6 @@
 ## Mata Kuliah
 
-Sebagai proyek akhir: [8] Basis Data | Universitas Pelita Bangsa.
+Sebagai Proyek UAS: [8] Basis Data | Universitas Pelita Bangsa.
 
 ## Laporan Praktikum
 
